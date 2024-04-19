@@ -13,13 +13,13 @@
 
 - 👯 My Portfolio link [Portfolio](https://manas8991.github.io/portfolio_22.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MANAS8991](https://github.com/MANAS8991)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/MANAS8991)
 
 - 💬 Ask me about **AI/ML & Data Science**
 
 - 📫 How to reach me **girimanaskumar1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Iup9FbxW4uM-LYx7BwprZTZptc-sbyPk/view?usp=sharing](https://drive.google.com/file/d/1Iup9FbxW4uM-LYx7BwprZTZptc-sbyPk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Iup9FbxW4uM-LYx7BwprZTZptc-sbyPk/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am Funny😁😁**
 

@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manas8991" alt="manas8991" /></a> </p>
 
 - 🔭 I’m currently working on [Gen AI Projects](https://github.com/MANAS8991/ai_chanakya_cahatbot.github.io.git)
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 I’m currently learning **Generative AI**
 
 - 👯 My Portfolio link [Portfolio](https://manas8991.github.io/portfolio_22.github.io/)

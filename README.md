@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas Kumar Giri</h1>
+<h1 align="center">Hi 👋, I'm Manas Kumar Giri</h1> 
 <div align="center"> <img src="https://github.com/MANAS8991/MANAS8991/blob/main/linkedin21.png"> </div>
 
 <h3 align="center">A passionate AI/ML & Data Scientist from India</h3>
